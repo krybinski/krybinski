@@ -2,7 +2,7 @@
 
 ## 🙍 About me
 
-My name is Kamil and I'm 28 years old Frontend Developer.
+My name is Kamil and I'm 29 years old Full-Stack Developer.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamil-rybiński-346b99b1/)](https://www.linkedin.com/in/kamil-rybiński-346b99b1/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kamilryba19@gmail.com)](mailto:kamilryba19@gmail.com)
@@ -18,6 +18,8 @@ My name is Kamil and I'm 28 years old Frontend Developer.
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/krybinski/)
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/krybinski/)
+
+[![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel&logoColor=white)](https://github.com/krybinski/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/krybinski/)](https://github.com/krybinski/)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/krybinski/)
