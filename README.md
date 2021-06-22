@@ -19,10 +19,11 @@ My name is Kamil and I'm 29 years old Full-Stack Developer.
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/krybinski/)
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/krybinski/)
 
-[![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel&logoColor=white)](https://github.com/krybinski/)
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/krybinski/)](https://github.com/krybinski/)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/krybinski/)
 
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/krybinski/)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/krybinski/)
+
+[![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel&logoColor=white)](https://github.com/krybinski/)
+[![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=orange)](https://github.com/krybinski/)
