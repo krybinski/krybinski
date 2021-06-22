@@ -16,6 +16,8 @@ My name is Kamil and I'm 29 years old Full-Stack Developer.
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/krybinski/)](https://github.com/krybinski/)[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://github.com/krybinski/)
 
+[![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/krybinski/)
+[![Vuex](https://img.shields.io/badge/-Vuex-darkgreen?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/krybinski/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/krybinski/)
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/krybinski/)
 
