@@ -2,7 +2,7 @@
 
 ## 🙍 About me
 
-My name is Kamil and currently I'm woring as a Full-Stack Developer.
+My name is Kamil and currently I am a Full-Stack Developer focues on Vue.js and Laravel frameworks.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamil-rybiński-346b99b1/)](https://www.linkedin.com/in/kamil-rybinski/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kamilryba19@gmail.com)](mailto:kamilryba19@gmail.com)
