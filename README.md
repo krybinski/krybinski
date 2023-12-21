@@ -23,6 +23,7 @@ My name is Kamil and I am working as a Front-end Developer. My favourite technol
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/krybinski/)](https://github.com/krybinski/)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/krybinski/)
+[![Vite](https://img.shields.io/badge/-Vite-darkblue?style=flat-square&logo=Vite&logoColor=gold)](https://github.com/krybinski/)
 
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/krybinski/)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/krybinski/)
