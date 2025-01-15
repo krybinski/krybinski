@@ -11,6 +11,7 @@ My name is Kamil and I am working as a Front-end Developer. My favourite technol
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/krybinski/)](https://github.com/krybinski/)[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://github.com/krybinski/)
 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 [![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/krybinski/)
 [![Vuex](https://img.shields.io/badge/-Vuex-darkgreen?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/krybinski/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/krybinski/)
